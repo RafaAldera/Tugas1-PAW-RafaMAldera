@@ -1,22 +1,21 @@
-/* style.css */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #E0FFFF; /* Light Cyan */
-    color: #556B2F; /* Dark Olive Green */
+    background-color: #E0FFFF; 
+    color: #556B2F; 
 }
 
 header {
-    background-color: #98FB98; /* Pale Green */
-    color: #006400; /* Dark Green */
+    background-color: #98FB98;
+    color: #006400; 
     padding: 1em 0;
     text-align: center;
-    border-bottom: 2px solid #3CB371; /* Medium Sea Green */
+    border-bottom: 2px solid #3CB371; 
 }
 
 nav a {
-    color: #006400; /* Dark Green */
+    color: #006400; 
     text-decoration: none;
     margin: 0 1em;
     font-weight: bold;
@@ -27,7 +26,7 @@ main {
 }
 
 section {
-    background-color: #F0FFF0; /* Honeydew */
+    background-color: #F0FFF0; 
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
@@ -37,12 +36,11 @@ section {
 footer {
     text-align: center;
     padding: 1em 0;
-    background-color: #98FB98; /* Pale Green */
-    color: #006400; /* Dark Green */
-    border-top: 2px solid #3CB371; /* Medium Sea Green */
+    background-color: #98FB98;
+    color: #006400; 
+    border-top: 2px solid #3CB371; 
 }
 
-/* Styling untuk tabel */
 table {
     width: 100%;
     border-collapse: collapse;
@@ -52,20 +50,19 @@ table {
 th, td {
     text-align: left;
     padding: 12px;
-    border-bottom: 1px solid #BDB76B; /* Dark Khaki */
+    border-bottom: 1px solid #BDB76B; 
 }
 
 th {
-    background-color: #BDB76B; /* Dark Khaki */
-    color: #556B2F; /* Dark Olive Green */
+    background-color: #BDB76B; 
+    color: #556B2F; 
 }
 
-/* Styling untuk form */
 form label {
     display: block;
     margin-top: 10px;
     font-weight: bold;
-    color: #556B2F; /* Dark Olive Green */
+    color: #556B2F; 
 }
 
 form input[type="text"],
@@ -76,12 +73,12 @@ form textarea {
     padding: 8px;
     margin-top: 5px;
     margin-bottom: 10px;
-    border: 1px solid #BDB76B; /* Dark Khaki */
+    border: 1px solid #BDB76B; 
     border-radius: 4px;
 }
 
 form input[type="submit"] {
-    background-color: #3CB371; /* Medium Sea Green */
+    background-color: #3CB371; 
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -90,14 +87,13 @@ form input[type="submit"] {
 }
 
 form input[type="submit"]:hover {
-    background-color: #2E8B57; /* Sea Green */
+    background-color: #2E8B57; 
 }
 
-/* Styling untuk list */
 ul {
     list-style-type: square;
     padding-left: 20px;
-    color: #556B2F; /* Dark Olive Green */
+    color: #556B2F; 
 }
 
 ul li {
